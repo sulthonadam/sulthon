@@ -1,0 +1,108 @@
+# Translation of Themes - Software Company in Indonesian
+# This file is distributed under the same license as the Themes - Software Company package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-15 07:25:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Software Company\n"
+
+#. Theme Name of the theme
+msgid "Software Company"
+msgstr "Software Company"
+
+#. Description of the theme
+msgid "Software Company is a child theme of Rara Business Free WordPress theme. The theme is suitable for creating a mobile-responsive, fast loading, and SEO optimized website of small business, IT company, software company, web agency, consulting agency, and other large corporate houses. Software Company is a multipurpose theme that anyone can use -- you don’t need to have any coding experience to create a business website with this theme. The theme looks clean and professional, and comes with advanced features and style that will help you easily impress your visitors and convert them into the regular customers. Software Company features multiple Call-To-Action buttons that makes sure that your visitors buy or subscribe to your products. An inquiry button on the header, followed by an attractive full-width video banner with two buttons will help you get the utmost out of your website. You can also explain about your company, services you offer, your specialties, and your team members on the homepage. The theme also features an impressive and easy on the eye FAQ section where you can add the most frequent queries so that new visitors get their questions answered quickly. You can also display the testimonials of your old clients to build the trust with new customers. Furthermore, the eye-catching design of the theme adjusts itself to the screen size of the devices of the visitors so that even mobile users can get flawless experience on your website. Software Company Free WordPress theme also features Schema Markup and speed optimized code for SEO boost. The easy-to-use theme also comes with step-by-step documentation and is backed with friendly and quick support. Check demo at https://demo.rarathemes.com/software-company/, read the documentation at https://docs.rarathemes.com/docs/software-company/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Software Company adalah tema turunan dari tema Rara Business Free WordPress. Tema ini cocok untuk membuat situs web yang dioptimalkan untuk seluler, responsif, pemuatan cepat, dan SEO untuk bisnis kecil, perusahaan IT, perusahaan perangkat lunak, agensi web, agensi konsultan, dan rumah perusahaan besar lainnya. Software Company adalah tema multiguna yang dapat digunakan siapa saja - Anda tidak perlu memiliki pengalaman pengkodean untuk membuat situs web bisnis dengan tema ini. Tema terlihat bersih dan profesional, dan dilengkapi dengan fitur dan gaya canggih yang akan membantu Anda dengan mudah mengesankan pengunjung Anda dan mengubahnya menjadi pelanggan reguler. Software Company memiliki beberapa tombol Ajakan Bertindak yang memastikan bahwa pengunjung Anda membeli atau berlangganan produk Anda. Tombol pertanyaan di tajuk, diikuti oleh spanduk video lebar penuh yang menarik dengan dua tombol akan membantu Anda memaksimalkan situs web Anda. Anda juga dapat menjelaskan tentang perusahaan Anda, layanan yang Anda tawarkan, spesialisasi Anda, dan anggota tim Anda di beranda. Tema ini juga menampilkan bagian FAQ mata yang mengesankan dan mudah di mana Anda dapat menambahkan pertanyaan paling sering sehingga pengunjung baru mendapatkan pertanyaan mereka dengan cepat. Anda juga dapat menampilkan testimonial dari klien lama Anda untuk membangun kepercayaan dengan pelanggan baru. Selain itu, desain tema yang menarik menyesuaikan diri dengan ukuran layar perangkat pengunjung sehingga bahkan pengguna seluler bisa mendapatkan pengalaman tanpa cacat di situs web Anda. Tema WordPress Gratis dari Software Company juga menampilkan Skema Markup dan kode yang dioptimalkan untuk meningkatkan kecepatan SEO. Tema yang mudah digunakan juga dilengkapi dengan dokumentasi langkah demi langkah dan didukung dengan dukungan yang ramah dan cepat. Cek demo di https://demo.rarathemes.com/software-company/, baca dokumentasi di https://docs.rarathemes.com/docs/software-company/, dan dapatkan layanan bantuan di https://rarathemes.com/support-ticket/."
+
+#: functions.php:267
+msgid "Software Company | Developed By "
+msgstr "Software Company | Dikembangkan Oleh"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: functions.php:54
+msgid "https://demo.rarathemes.com/software-company/"
+msgstr "https://demo.rarathemes.com/software-company/"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: functions.php:54
+msgid "Demo Link : "
+msgstr "Tautan Demo :"
+
+#: functions.php:39
+msgid "Demo & Documentation"
+msgstr "Demo & Dokumentasi"
+
+#. translators: 1: poweredby, 2: link, 3: span tag closed
+#: functions.php:272
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#. translators: 1: poweredby, 2: link, 3: span tag closed
+#: functions.php:272
+msgid " %1$sPowered by %2$s%3$s"
+msgstr "%1$s Ditenagai oleh %2$s%3$s"
+
+#: functions.php:111
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: functions.php:111
+msgid "Plugin required"
+msgstr "Plugin diwajibkan"
+
+#: functions.php:108
+msgid "Download Demo Content"
+msgstr "Unduh Konten Demo"
+
+#. translators: 1: string, 2: url, 3: string
+#: functions.php:92 functions.php:108
+msgid "Click here"
+msgstr "Klik di sini"
+
+#: functions.php:80
+msgid "Demo Content Import"
+msgstr "Impor Konten Demo"
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: functions.php:59
+msgid "Documentation Link : "
+msgstr "Tautan Dokumentasi :"
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: functions.php:54 functions.php:59
+msgid "Click here."
+msgstr "Klik di sini."
+
+#: functions.php:294
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:293
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 1: string, 2: url, 3: string
+#: functions.php:92
+msgid "Software Company comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, "
+msgstr "Software Company hadir dengan fitur impor konten demo. Anda dapat mengimpor konten demo hanya dengan beberapa klik. Untuk langkah-demi-langkah-nya, lihat video tutorial,"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:268
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/software-company/"
+msgstr "https://rarathemes.com/wordpress-themes/software-company/"
